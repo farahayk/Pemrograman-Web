@@ -9,9 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        <h2> Hello World </h2>
-    ?>
 </body>
 </html>
 
@@ -21,7 +18,7 @@
 // PHP ada array asosiatif, kalau di pemrograman lain dianggap objek
 // array asosiatif => array yang punya nama
 
-    $mhs = ]
+    $mhs = [
         [
         'nama'=>'Farah'
         'nim' => '192410101088'
